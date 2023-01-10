@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.tit{
+    background-color: #216fb1;
+    height: 40px;
+    color: white;
+    display: flex;
+}
+
+.tit-sup{
+    margin: 0 auto;
+    align-self: center;
+    text-shadow: 8px 5px 5px black;
+    font-size: 27px;
+}
+.adaptacion{
+   display: flex;
+   flex-direction: column;
+   background-color: #2c99a3;
+   height: 250px;
+   gap: 20px;
+   
+   }
+
+   .text-adaptamos{
+    align-self: center;
+    color: white;
+    font-size: 32px;
+    margin-top: 35px;
+       }
+.text-adaptamos span{
+    font-weight: bold;
+}
+
+.pregunta span{
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+
+.pregunta{
+    align-self: center;
+    font-size: 17px;
+    display:flex;
+    gap:10px;
+    
+}
+
+.pregunta p{
+    max-width: 80%;
+}
+
+.pregunta2 {
+    max-width: 90px;
+}
+
+.imagen1{
+    display: flex;
+    margin-top: 55px;
+    justify-content: center;
+    margin-bottom: 55px; 
+}
+
+.imagen1-preg{
+    background-color: #39393B;
+    color: white;
+    max-width: 500px;
+    font-size: 22px;
+    height: 85px;
+    border-radius: 8px;
+    display:flex;
+    align-items: center;
+    }
+
+.imagen1-sup{
+        margin-left: 55px;
+        margin-top: 155px;
+        margin-right: 35px;
+                }
+
+
+.imagen1-texto {
+    max-width: 600px;
+    font-size: 18px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.negocio-tit{
+color: #376FB1;
+display: flex;
+font-size: 22px;
+font-weight: bold;
+justify-content: center;
+}
+
+.negocio-tit-cuerpo{
+    color: gray;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center ;
+    
+}
+
+.negocio-tit-exp{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 55px;
+
+}
+.experiencia1{
+    max-width: 350px;
+    height: 250px;
+    background-color: #216fb1;
+    border-radius: 25px;
+    color: white;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.experiencia1 button{
+    background-color: white;
+    border: none;
+    outline: none;
+    width: 85px;
+    height: 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 0 auto;
+    color: #216fb1;
+    
+
+}
+
+.Contacto{
+    background-color: #4A99A3;
+    border: none;
+    font-weight: bolder;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 55px;
+    height: 85px;
+
+}
+
+.Contacto button{
+    
+    background-color: white;
+    border: none;
+    outline: none;
+    width: 85px;
+    height: 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 0 auto;
+    color: #216fb1;
+
+
+}
+
+.Contactenos{
+    display:flex;
+    justify-content: space-around;
+    background-color: #4287B4;
+    margin-bottom: 0;
+    height: 250px;
+
+}
+
+.rrss img{
+    height: 45px;
+   
+}
+
+.rrss{
+    align-self: center;
+    
+}
+
+.paises{
+    color: white;
+    align-self: center;
+
+}
+
+.cont{
+    font-weight: bold;
+
+
+}
+
+.logotipo img{
+    height: 85px;
+}
+
+.logotipo{
+    align-self: center;
+}
+
+.alumno{
+    background-color: gray;
+    color: white;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+
+    }
+
+.alumno p{
+    font-weight: bold;
+    margin-top: 10px;
+
+}    
