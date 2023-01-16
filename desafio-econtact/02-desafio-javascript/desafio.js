@@ -21,7 +21,7 @@ const objetoFijo = {
     direccion: {
       calle: "Calle Córdoba",
       numero: 476,
-      piso: 3,
+      piso: 3,dir
     },
     sectores: [
       "Contabilidad",
